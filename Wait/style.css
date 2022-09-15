@@ -1,0 +1,42 @@
+html{
+    background-color: beige;
+    margin-top: 2px;
+    margin-bottom: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.nav_tin li{
+    display: inline;
+}
+.nav_tin{
+    text-align: right;
+    word-spacing: 11px;
+    font-weight: bolder;
+    font-size: 22px;
+    padding-right: 2cm;
+}
+.welcome{
+    text-align: center;
+    background-color: grey;
+    padding: 20px;
+}
+.about{
+    padding-bottom: 17ex;
+}
+.about img{
+    width: 4in;
+}
+.about p{
+    float: right;
+    padding-right: 10cm;
+}
+.hobbies{
+    padding-top: 21px;
+    padding-bottom: 21px;
+}
